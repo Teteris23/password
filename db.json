@@ -1,0 +1,19 @@
+{
+  "passwords": [
+    {
+      "id": 1,
+      "oldPassword": "vecaparole",
+      "newPassword": ""
+    },
+    {
+      "id": 2,
+      "oldPassword": "password123",
+      "newPassword": ""
+    },
+    {
+      "id": 3,
+      "oldPassword": "qwerty",
+      "newPassword": ""
+    }
+  ]
+}
